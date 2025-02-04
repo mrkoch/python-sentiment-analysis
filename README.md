@@ -9,6 +9,16 @@ Data Science**, 2023-2025 edition.
 
 * Python >= 3.10 (3.12.0 used)
 
+## Main Packages
+
+- [spaCy - NLP](https://github.com/explosion/spaCy)
+- [Pandas - Data Analysis Toolkit](https://github.com/pandas-dev/pandas)
+- [Transformers](https://github.com/huggingface/transformers)
+- [Matplotlib](https://github.com/matplotlib/matplotlib)
+
+## Scripts folder
+All files and documentation in [Scripts folder](Scripts)
+
 
 
 ## Authors
@@ -19,12 +29,12 @@ Data Science**, 2023-2025 edition.
 - [Nicola Vuolo](https://github.com/NicolaVuolo)
 - [Martina D'amato](https://github.com/MartinaDamato)
 
+## Special thanks
 
+- [Vincenzo Miracula](https://github.com/Vincenzo-Miracula) (The code master 🤗)
 
-## Badges
+## License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+Creative Common Sharealike License
 
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-
-
+[![Creative Common Sharealike License](https://img.shields.io/badge/Creative_Common-Sharealike_4.0-blue)](https://creativecommons.org/licenses/by-sa/4.0/)
